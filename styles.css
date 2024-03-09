@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+    height: 100vh;
+}
+
+input{
+    height: 100%;
+    width: 90%;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    border-radius: 100px;
+}
+
+
+.input{
+    background-color: #c4c4c4;
+    width: 250px;
+    height: 40px;
+    border-radius: 100px;
+    padding: 5px;
+}
+
+i{
+    font-size: 60px;
+    color: brown;
+    padding-right: 5px;
+}
+
+
+button{
+    width: 250px;
+    height: 40px;
+    color: white;
+    background-color: brown;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 100px;
+}
+
+footer{
+    position: absolute;
+    bottom: 5px;
+    left: 45%;
+}
+
+p{
+    text-align: center;
+}
